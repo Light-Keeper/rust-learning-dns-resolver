@@ -1,6 +1,7 @@
 # DNS Client
 
 It is a simple DNS client that uses UDP protocol to resolve A records.
+It serves for learning purposes and covers happy path only. 
 
 ```
 USAGE:
